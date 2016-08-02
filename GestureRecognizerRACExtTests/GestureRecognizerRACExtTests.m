@@ -5,7 +5,7 @@
 #import "UIGestureRecognizer+ReactiveCocoa.h"
 #import "RACGestureRecognizerActionHandler.h"
 #import "UIGestureRecognizer+ReactiveCocoaProtected.h"
-#import <ReactiveCocoa.h>
+#import <ReactiveCocoa/ReactiveCocoa.h>
 
 /* For PrivateMethod testing */
 @interface UIGestureRecognizer ()

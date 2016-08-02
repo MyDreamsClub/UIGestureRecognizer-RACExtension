@@ -9,7 +9,7 @@
 #import "KIViewController.h"
 
 #import "UIGestureRecognizer+ReactiveCocoa.h"
-#import <ReactiveCocoa.h>
+#import <ReactiveCocoa/ReactiveCocoa.h>
 
 @interface KIViewController ()
 
