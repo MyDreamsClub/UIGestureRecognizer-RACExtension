@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "UIGestureRecognizer+ReactiveCocoa"
-  s.version      = "0.1.1"
+  s.version      = "0.1.3"
   s.summary      = "Handle gestures with ReactiveCocoa! No more ugly selectors!"
   s.homepage     = "https://github.com/kaiinui/UIGestureRecognizer-RACExtension"
   s.license      = "MIT"
