@@ -5,9 +5,9 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/kaiinui/UIGestureRecognizer-RACExtension"
   s.license      = "MIT"
   s.author       = { "kaiinui" => "lied.der.optik@gmail.com" }
-  s.source       = { :git => "https://github.com/IvanUshakov/UIGestureRecognizer-RACExtension.git", :tag => "v0.1.1" }
+  s.source       = { :git => "https://github.com/VladimirLyseev/UIGestureRecognizer-RACExtension.git", :tag => s.version }
   s.source_files  = "GestureRecognizerRACExt/Classes/**/*.{h,m}"
   s.requires_arc = true
   s.platform = "ios", '7.0'
-  s.dependency 'ReactiveCocoa'
+  s.dependency 'ReactiveObjC'
 end
